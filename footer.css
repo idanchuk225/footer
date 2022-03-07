@@ -8,9 +8,10 @@ figure {
 html,
 body {
     overflow-x: hidden;
-    color: #000;
-    -ms-overflow-style: scrollbar;
-    -webkit-font-smoothing: antialiased
+
+    color: #fff;
+    overflow: hidden;
+    -webkit-font-smoothing: antialiased 
 }
 
 a,
@@ -67,7 +68,7 @@ a {
 }
 
 .ct-footer-pre .form-group {
-    position: relative;
+    float: right;
     margin: 0;
 }
 
