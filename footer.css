@@ -89,6 +89,7 @@ a {
     height: 50px;
     padding: 0 30px;
     margin: 0 5px;
+    position: right;
     border-radius: 0 !important;
 }
 
