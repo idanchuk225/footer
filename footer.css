@@ -4,7 +4,9 @@ img,
 figure {
     max-width: 100%
 }
-
+div.static {
+    position: static;
+  }
 html,
 body {
     overflow-x: hidden;
